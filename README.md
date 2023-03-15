@@ -1,4 +1,4 @@
-# BookMovie
+# Search Movie
 A web app for search movies by either title or imdbId.
 
 During search we get some suggestion by selecting these suggestion we can get the information about a movie.
