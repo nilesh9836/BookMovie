@@ -1,4 +1,4 @@
-# BookMovie
+# Search Movie
 A web app for search movies by either title or imdbId.
 
 We can mark movie as favourite by click on heart icon.
